@@ -1,0 +1,13 @@
+/* custom css for pagination */
+.pagination {
+  justify-content: center;
+}
+.pagination .page-item.active .page-link {
+  background-color: #343a40;
+  border-color: #343a40;
+  color: white
+}
+
+.pagination .page-item .page-link {
+  color: #343a40
+}
